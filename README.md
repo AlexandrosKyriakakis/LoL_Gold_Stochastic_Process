@@ -13,7 +13,7 @@
 
 ### Results
 
-![](https://github.com/AlexandrosKyriakakis/LoL_Gold_Stochastic_Process/blob/master/image/Figure.png)
+![](https://github.com/AlexandrosKyriakakis/LoL_Gold_Stochastic_Process/blob/master/image/Figure_1.png)
 
 ### Running the script 
 
