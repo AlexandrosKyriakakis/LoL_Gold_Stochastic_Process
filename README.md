@@ -16,7 +16,9 @@ $ python3 lolqueue.py
 
 ```
 
-### MIT LICENCE
 
-### Contributors
+## Contributor
+
 Alexandros Kyriakakis
+
+### MIT LICENCE
