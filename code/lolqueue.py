@@ -26,7 +26,7 @@ for i in range(100):
 fig, ax = plt.subplots()
 ax.plot([ sum(Team_A[:i]) for i in range(1,len(Team_A))], label="Team A") # Plot the summation of gold earned at every trade
 ax.plot([ sum(Team_B[:i]) for i in range(1,len(Team_B))], label="Team B")
-ax.set(xlabel='Time', ylabel='Gold', title='League of Legends Gold Stochastic Proccess')
+ax.set(xlabel='Time', ylabel='Gold', title='League of Legends Gold Stochastic Process')
 ax.legend()
 ax.grid()
 plt.show()
