@@ -1,4 +1,4 @@
-# League of Legends Gold Stochastic Proccess
+# League of Legends Gold Stochastic Process
 
 ### We assume the following:
 
