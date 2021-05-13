@@ -6,7 +6,7 @@
 - Each trade gives 0.01 probability advantage to the team won the trade and 0.01 probability disadvantage to the other team
 
 ### Results
-
+![](https://github.com/AlexandrosKyriakakis/LoL_Gold_Stochastic_Process/blob/master/image/Figure.png)
 
 ### Running the script 
 
